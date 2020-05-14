@@ -1,2 +1,2 @@
 # kmnk
-KMNK
+public informations of KMNK
